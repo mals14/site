@@ -1,1 +1,1 @@
-[Salt implications on health](https://mals14.github.io/site/Salt_impact_on_blood_pressure_2018-09-07.md)
+[Salt implications on health](https://mals14.github.io/site/Salt_impact_on_blood_pressure_2018-09-07.html)
