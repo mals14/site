@@ -2,7 +2,7 @@
 
 ### Some links
 
-#### Salt's impact on blood pressure
+#### 1. Salt's impact on blood pressure
 
 This [article](http://www.bloodpressureuk.org/microsites/salt/Home/Whysaltisbad/Saltseffects) has good explanation. And it basically seems to say that extra sodium in the body can hurt the kidney function which in turn will hurt blood pressure and then negative spiral. I am not sure how reliable this link is or how scientific the observations are but the website claims some legitimacy.
 
@@ -15,13 +15,13 @@ From the above site
 
 > Most of the salt we eat every day is "hidden". Roughly 80% of the salt we eat is hiding in processed foods like bread, biscuits and breakfast cereals, and prepared ready meals or takeaways. Only 20% comes from the salt we add while cooking or at the table.
 
-#### This article questions salt's impact on blood pressure - citing studies
+#### 2. This article questions salt's impact on blood pressure - citing studies
 
 Link - [High blood pressure: Sodium may not be the culprit](https://www.medicalnewstoday.com/articles/317099.php)
 
 Shows once again that our bodies are too complex and that nutrition science is still evolving. Makes sense to eat moderately (ideally similar to how people ate before factory made food and less preserved food) and avoid factory made food and be active and be happy :)
 
-#### This NYTimes article from 2017 says there is no clear answer but reduce salt anyhow
+#### 3. This NYTimes article from 2017 says there is no clear answer but reduce salt anyhow
 
 > “Consumers are sometimes wary of low-sodium products, thinking they will lack flavor,” Ms. Liebman observed. But when sodium is reduced gradually and without fanfare, they hardly notice it.
 
@@ -33,20 +33,20 @@ Shows once again that our bodies are too complex and that nutrition science is s
 
 > Often, most of the salt in a restaurant dish comes from the sauce or dressing; ask for it served on the side and use only a small amount on the food. For dishes cooked to order, ask for them prepared without salt; you can always add some at the table, if desired.
 
-#### Also from American Heart Association
+#### 4. Also from American Heart Association
 
 [Common High Blood Pressure Myths | American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/common-high-blood-pressure-myths) 
 
-> ### Myth: I use kosher or sea salt when I cook instead of regular table salt. They are low-sodium alternatives.
+> ##### Myth: I use kosher or sea salt when I cook instead of regular table salt. They are low-sodium alternatives.
 > 
 > Chemically, kosher salt and sea salt are the same as table salt — 40 percent sodium— and count the same toward total sodium consumption. Table salt is a combination of the two minerals sodium (Na) and chloride (Cl).
 
-> ### Myth: I don’t use table salt, so I’m in control of my sodium intake and my blood pressure.
+> ##### Myth: I don’t use table salt, so I’m in control of my sodium intake and my blood pressure.
 > 
 > In some people, sodium can increase blood pressure. But [controlling sodium](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure/shaking-the-salt-habit-to-lower-high-blood-pressure) means more than just putting down the salt shaker. It also means checking labels, because up to 75 percent of the sodium we consume is hidden in processed foods like tomato sauce, soups, condiments, canned foods and prepared mixes. When buying prepared and prepackaged foods, read the labels. Watch for the words “soda” and “sodium” and the symbol “Na” on labels. These words show that sodium compounds are present.
 > 
 
-#### This article has a non-scientific study that says high sodium seems to be cause of high blood pressure but higher potassium intake helps somewhat
+#### 5. This article has a non-scientific study that says high sodium seems to be cause of high blood pressure but higher potassium intake helps somewhat
 
 > Extra sodium in the bloodstream can pull water into the blood vessels and boost blood pressure by increasing the amount of fluid the heart needs to pump through the body. Potassium can help remove excess sodium from the body. 
 > 
