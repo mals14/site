@@ -1,20 +1,21 @@
 h1 {
-    color: #35a39b
+    font-size: 2em;
+    color: #35a39b;
     // font: sans-serif
 }
 
 h2 {
-    color: #af0e0e
+    color: #af0e0e;
 }
 
 h3 {
-    color: #4400ff
+    color: #4400ff;
 }
 
 h4 {
-    color: #026302
+    color: #026302;
 }
 
 h5 {
-    color: #bb04a3
+    color: #bb04a3;
 }
